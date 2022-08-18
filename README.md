@@ -1,6 +1,7 @@
 # STOCK-HISTORY-PRICE-ANALYTICS.
 
-#Description
+# Description
+
 This is a developed project, that uses python scripts, pandas, and matplotlib,to web scrape data off of yahoo finance and plots a data visualization chart. The program then asks the user how many Stocks he would like to see depending on how many the user inputs, the program then displays the number of lines per each Ticker input.
 
 
