@@ -7,3 +7,6 @@ This is a developed project, that uses python scripts, pandas, and matplotlib,to
 ![Figure_1](https://user-images.githubusercontent.com/97313664/185510466-bd793d4f-0ec7-4037-9fad-3c24eb517eda.png)
 #
 ![price AMZ](https://user-images.githubusercontent.com/97313664/185510531-fff6cfc8-1ff5-4da8-8279-95896c4f9056.png)
+
+#
+![Screenshot 2022-08-18 161140](https://user-images.githubusercontent.com/97313664/185510687-5d4c0424-4534-450d-a5a2-8dd6762e1182.png)
