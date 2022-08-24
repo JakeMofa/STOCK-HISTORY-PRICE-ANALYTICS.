@@ -11,3 +11,6 @@ This is a developed project, that uses python scripts, pandas, and matplotlib,to
 
 
 # ![Screenshot 2022-08-18 161140](https://user-images.githubusercontent.com/97313664/185510687-5d4c0424-4534-450d-a5a2-8dd6762e1182.png)
+
+MY Developer Portfolio
+http://jakemofa.com/
